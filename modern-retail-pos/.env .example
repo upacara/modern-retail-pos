@@ -1,0 +1,8 @@
+# Set to "production" to connect to Google Apps Script Web App, or "mock" for local browser storage
+VITE_API_MODE=mock
+
+# Deployed Google Apps Script Web App URL (ends with /exec)
+VITE_GAS_WEB_APP_URL=https://script.google.com/macros/s/YOUR_DEPLOYMENT_ID/exec
+
+# Optional default store currency display
+VITE_DEFAULT_CURRENCY=IDR
